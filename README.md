@@ -1,3 +1,3 @@
 # Demo-merge-Conflicts
 
-by Karanbir Singh
+A simple demo by Karanbir Singh for DMIT 2018
